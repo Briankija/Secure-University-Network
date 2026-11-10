@@ -174,6 +174,9 @@ yet been assigned their departmental VLANs or configured IP addresses.
 The physical topology was created successfully. The devices and their
 cable connections form the base for the configuration work in Phase 2.
 
+![Alternative Text](assets/phase1.png)
+
+
 ------------------------------------------------------------------------
 
 # Phase 2 --- Router and switch configuration
