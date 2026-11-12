@@ -179,3 +179,37 @@ cable connections form the base for the configuration work in Phase 2.
 
 ------------------------------------------------------------------------
 
+### 101.1 Important security and implementation notes
+
+-   Passwords in this document are lab examples, not production
+    credentials.
+-   `service password-encryption` is not a substitute for strong secret
+    storage or secure authentication.
+-   SSH remote administration is not complete until the switch has a
+    reachable management IP address and an SSH connection is tested.
+-   The current network is still using the default VLAN 1 on the
+    displayed switch ports. Departmental segmentation has not yet been
+    implemented.
+-   No IP addressing, DHCP, DNS, ACLs, or internet simulation has been
+    configured yet.
+
+------------------------------------------------------------------------
+
+
+
+## 101. 3 Learning outcomes so far
+
+By completing Phases 1 and 2, the project has introduced:
+
+-   Basic campus network topology design.
+-   Cisco Packet Tracer device selection and cabling.
+-   Router and switch CLI navigation.
+-   Cisco IOS user EXEC, privileged EXEC, and global configuration
+    modes.
+-   Device hostnames and interface descriptions.
+-   Console and privileged-mode password configuration.
+-   Local user creation.
+-   SSH configuration prerequisites and VTY restrictions.
+-   Interface activation and status verification.
+-   Saving running configurations to startup configurations.
+
