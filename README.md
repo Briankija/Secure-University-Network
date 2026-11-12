@@ -213,3 +213,14 @@ By completing Phases 1 and 2, the project has introduced:
 -   Interface activation and status verification.
 -   Saving running configurations to startup configurations.
 
+By completing Phase 3, the project demonstrates:
+
+-   The purpose of VLANs and Layer 2 broadcast-domain separation.
+-   Creating and naming VLANs on a Cisco switch.
+-   Configuring access ports and assigning VLAN membership.
+-   Configuring an 802.1Q trunk.
+-   Understanding trunk allowed-VLAN lists.
+-   Creating and addressing a management SVI.
+-   Verifying VLAN membership, trunk state, and interface status.
+-   Understanding why VLAN segmentation must be combined with routing
+-   policies and ACLs for stronger network security.
